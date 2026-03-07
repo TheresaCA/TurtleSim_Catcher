@@ -27,7 +27,7 @@ Controls the movement of `turtle1`.
 Functions:
 - Detects positions of spawned turtles
 - Finds the closest turtle
-- Moves `turtle1` toward that turtle using velocity commands
+- Moves `turtle1` toward that turtle
 
 ---
 
